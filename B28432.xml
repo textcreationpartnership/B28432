@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for raising sixty thousand pound per annum, without charge of collecting, in a treble benefit to the nation by the payment. / Humbly offered to the Parliament of Great Britain.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28432</idno><idno type="EEBO-CITATION">99887013</idno>
+  <idno type="VID">187337</idno>
+  <idno type="EEBO-PROQUEST">2240895133</idno>
+  
+            <idno type="STC">Wing P3694</idno>
+            <idno type="STC">Interim Tract Supplement Guide 516.m.18[40]</idno>
+            <idno type="PROQUEST">ocm99887013</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887013e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187337)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:4[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for raising sixty thousand pound per annum, without charge of collecting, in a treble benefit to the nation by the payment. / Humbly offered to the Parliament of Great Britain.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lotteries --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal_to_Parliament">
+            <pb facs="tcp:187337:1"/>
+            <head>A PROPOSAL FOR Raising Sixty Thousand Pound <hi>per Annum,</hi> Without Charge of Collecting, In a Treble Benefit to the NATION by the Payment.</head>
+            <head type="sub">Humbly Offered to the Parliament of <hi>GREAT BRITAIN.</hi>
+            </head>
+            <p n="1">I. THE Duke of <hi>Roan,</hi> in his <hi>Treatise of the Interest of all</hi> Christendom, tells us, <q rend="margQuotes">That <hi>England</hi> is a mighty Animal, that will never die, unless it kills it self: That the <hi>Swiss</hi> seems to be made for the Mountains, and the Mountains for the <hi>Swiss:</hi> That the <hi>Hollanders</hi> seem to be made for the Sea, and the Sea for the <hi>Hollanders:</hi> That it's the In<g ref="char:EOLhyphen"/>terest of the <hi>Swiss</hi> to be always in Peace, and that it's the Interest of the <hi>Hollanders</hi> to be al<g ref="char:EOLhyphen"/>ways in a War; and <hi>where Force fails, Money prevails,</hi> is a <hi>Dutch</hi> Proverb.</q>
+            </p>
+            <p n="2">II. The Interest and Prosperity of this Kingdom depending upon Trade, I shall here shew, by Instances of Fact, how far Foreign Money hath prevail'd in making Laws to the Destruction of our Commerce: <hi>Edward</hi> the Third made the first Advance, by stopping of our Wooll from Ex<g ref="char:EOLhyphen"/>portation, and in the first Settlement of Custom, where the Denizen paid Six Shillings and Eight Pence, the Alien paid Ten Shillings, <bibl>
+                  <hi>Anno vicesimo septimo</hi> Ed. 3. <hi>cap.</hi> 1.</bibl> But the Government being left to his Grandson, <hi>Richard</hi> the Second, in his Infancy, Foreign Money prevail'd in get<g ref="char:EOLhyphen"/>ting a Parliament, that made Laws to destroy what he had so happily advanc'd, and by Act of Parliament made <bibl>
+                  <hi>Anno secundo</hi> Rich. 2. <hi>cap.</hi> 1.</bibl> all Restraints laid upon Aliens were taken off, and they were put upon an Equal Foot in Trade with the Denizens. <bibl>
+                  <hi>Anno decimo quarto</hi> Rich. 2. <hi>cap.</hi> 5.</bibl> a Law was made, <q rend="margQuotes">that no Denizen should carry Wooll, Leather, Woollfels, nor Lead, out of the Realm of <hi>England,</hi> to the Parts beyond the Sea, upon pain of Forfeiture of the same, but only Strangers.</q> And I hope it will not be denied here, but that this was a Foreign Par<g ref="char:EOLhyphen"/>liament. This unhappy Prince was hereby soon dethron'd, and the Government fix'd in a wrong Line, which kept up such Differences between the Houses of <hi>York</hi> and <hi>Lancaster</hi> the succeeding Reigns, that Merchant Aliens had the Benefit of our Merchandize and Commerce, until the Reign of <hi>Henry</hi> the Seventh, who turn'd the Tide, and by the Second Law that he made, obliged Merchant Aliens, made Denizens by Letters Patents, or by Act of Parliament, to pay Aliens Duties; and if any Goods or Merchandize were Enter'd in any other than the true Merchant Owner's Name, he should Forfeit his Goods, be Imprison'd and Fin'd at the King's Pleasure. <bibl>
+                  <hi>Anno tertio</hi> Hen. 7. <hi>cap.</hi> 7.</bibl> the Merchants of the <hi>Stillyard,</hi> by their Bribes in the next Reign, destroy'd what was so happily set up in this, and Rooted out the <hi>English</hi> Factory at <hi>Antwerp;</hi> which was happily Retrieved in the Fifth and Sixth Year of <hi>Edward</hi> the Sixth, and upon the fame Foot carry'd on the whole Reign of Queen <hi>Elizabeth,</hi> who in her first Year called Aliens Duties the <hi>Antient Revenue for her Crown,</hi> and made them a Security to our Navigation, by obliging all Mer<g ref="char:EOLhyphen"/>chants to pay Aliens Duties that shipp'd upon Foreign Bottoms, <bibl>
+                  <hi>Anno primo</hi> Eliz. <hi>cap.</hi> 13.</bibl> All which was overturn'd by Act of Parliament, in favour of <hi>Scotland,</hi> in the first Year of King <hi>James,</hi> by a Subsidy granted to the King for his Life out of Wooll exported, <bibl>
+                  <hi>Anno primo</hi> Jacobi, <hi>cap.</hi> 33.</bibl> Which laid the Foundation of our Civil Wars. At the Restoration of King <hi>Charles</hi> the Second, the Book of Rates was settled, and the Aliens Duty established; where the Natural Born Subject paid One Shilling upon the old Subsidy, the Merchant Alien paid Two Shillings; where the Natural Born Subject paid Three Shillings and Four Pence upon a Cloth exported, the Merchant Alien paid a Noble, <bibl>
+                  <hi>Anno duodecimo</hi> Car. <hi>cap.</hi> 4.</bibl> In the Twenty-fifth Year of King <hi>Charles,</hi> Aliens Duties were taken off our Woollen Manufactures exported by Act of Parliament, which gave a fatal Stroke to our Merchandize and Navigation. And in the Convention Par<g ref="char:EOLhyphen"/>liament, <hi>Lilli-bo-lero,</hi> the <hi>Dutchman</hi> in every particular was put upon an Equal Foot with the Natural Born Subject. In the Tenth Year of King <hi>William,</hi> a Bill came from <hi>Holland,</hi> which was pass'd into a Law, to take off all Duties from our Woollen Manufactures exported. No Ap<g ref="char:EOLhyphen"/>plication was ever made by any <hi>English</hi> Merchant to have the Duties taken off, but a Surprize when it appear'd in the Votes. One <hi>Millner</hi> a Merchant, who bought Goods for Mr. <hi>Dorvel</hi> of <hi>Holland,</hi> kept several Bails of Cloth at a Pack-house in <hi>Coleman-street,</hi> that were pack'd up some Weeks before the Bill came in, and had the Benefit of the Act, who always in former time took the first opportunity of Shipping. But that which at this time gives the true Proof, whether this was a <hi>Dutch</hi> or an <hi>English</hi> Parliament, A Petition was put in by the <hi>English</hi> Merchants, to desire that this Benefit should be limited to the Natural Born Subjects; and a Debate arising, whether their Petition should be consider'd, upon a Divison of the House, it passed in the Ne<g ref="char:EOLhyphen"/>gative.</p>
+            <p n="3">III. It is therefore humbly Proposed, That Ten Groats upon a Cloth exported by Aliens may be added to the Bill depending, for the better Collecting her Majesties Customs upon Goods im<g ref="char:EOLhyphen"/>ported, which will advance Sixty Thousand Pounds <hi>per Annum:</hi> And shall only add, that no <hi>British</hi> Merchant in Foreign Parts is upon an Equal Foot in Trade, with the Natural Born Subject; and that Money in <hi>Holland</hi> at this time upon good Security is at Three <hi>per Cent.</hi>
+            </p>
+            <p n="4">IV. That this Duty upon the Woollen Manufactury is but One and a Half <hi>per Cent.</hi> as like<g ref="char:EOLhyphen"/>wise the Duty upon Importation; when many of our Woollen Manufactures are loaded with Eight <hi>per Cent.</hi> Unnecessary Charge.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:187337:2"/>
+            <p>A PROPOSAL for Raising 60000 <hi>l. per Annum.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
